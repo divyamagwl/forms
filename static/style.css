@@ -1,0 +1,29 @@
+body{
+    background-color: blue ;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("images/bg.png");
+    background-size: 100% ;
+  }
+
+.centre{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.back_color{
+    background-color: white;
+}
+
+header{ 
+    background-image: url("images/bg2.jpg"); 
+    padding:10px;
+    text-align:right;
+    background-size: 10% 10%;
+}
+
+nav{
+	padding:10px;
+}

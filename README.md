@@ -3,7 +3,7 @@
     python3 -m venv venv
     . venv/bin/activate
     pip install flask
-    pip install flask_sqlalchemy
+    pip install flask-sqlalchemy
 Now run the file:
 
     python3 __init__.py
